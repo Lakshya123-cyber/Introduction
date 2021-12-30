@@ -12,10 +12,10 @@ and learning programming through small projects on the side.
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-JS-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-REACT-d1a01f?style=for-the-badge&logo=react&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NEXT.JS-d1a01f?style=for-the-badge&logo=next.js&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NODE.JS-d1a01f?style=for-the-badge&logo=node.js&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-REACT-d1a01f?style=for-the-badge&logo=react&logoColor=1f232a&labelColor=61DBFB">
+  <img src="https://img.shields.io/badge/-NEXT.JS-d1a01f?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=000000">
+  <img src="https://img.shields.io/badge/-NODE.JS-d1a01f?style=for-the-badge&logo=node.js&logoColor=303030&labelColor=3c873a">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=306998&labelColor=646464">
 </div>
 </p>
 
