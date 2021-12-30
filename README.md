@@ -10,7 +10,7 @@ and learning programming through small projects on the side.
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=ebebeb">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=282828">
   <img src="https://img.shields.io/badge/-JS-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-REACT-d1a01f?style=for-the-badge&logo=react&logoColor=1f232a&labelColor=61DBFB">
   <img src="https://img.shields.io/badge/-NEXT.JS-d1a01f?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=000000">
