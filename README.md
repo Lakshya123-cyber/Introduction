@@ -2,7 +2,7 @@
   <b>Lakshya Raikwal</b>
 </h1>
 
-Hiya! I'm Lakshya Raikwal, a student currently living in Singapore. I'm currently the president of GIIS Tech Club, 
+Hiya! I'm Lakshya Raikwal, a student currently living in Singapore. I'm the current president of GIIS Tech Club, 
 and learning programming through small projects on the side.
 
 <br>
