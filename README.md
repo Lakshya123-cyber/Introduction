@@ -13,8 +13,8 @@ and learning programming through small projects on the side.
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-JS-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-REACT-d1a01f?style=for-the-badge&logo=react&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NEXT-d1a01f?style=for-the-badge&logo=next&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NODEJS-d1a01f?style=for-the-badge&logo=nodejs&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NEXT.JS-d1a01f?style=for-the-badge&logo=next.js&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-NODE.JS-d1a01f?style=for-the-badge&logo=node.js&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
