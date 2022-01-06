@@ -3,7 +3,8 @@
 </h1>
 
 Hiya! I'm Lakshya Raikwal, a student currently living in Singapore. I'm the current president of GIIS Tech Club, 
-and learning programming through small projects on the side.
+and I am an amateur in Python / Web Development / App development. I also have experience in working with AI and I have a couple of projects in neural networking as well.
+I can pretty much say that I have an extensive knowledge of the programming languages which are listed below.
 
 <br>
 
