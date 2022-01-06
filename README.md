@@ -28,7 +28,7 @@ class LakshyaRaik():
     self.name = "Lakshya Raikwal";
     self.username = "LakshyaRaik";
     self.location = "Singapore";
-    self.twitter = "@lakshya_raikwal";
+    self.instagram = "@titan1728";
     self.web = "https://raikwal-homepage.vercel.app";
   
   def __str__(self):
