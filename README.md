@@ -53,7 +53,7 @@ console.log("I am an amateur coder but I can handle certain projects")
 
 
 [twitter]: https://twitter.com/lakshya_raikwal
-[website]: https://www.raikwal-homepage.vercel.app/
+[website]: https://raikwal-homepage.vercel.app/
 [instagram]: https://www.instagram.com/titan1728/
 
 ---
