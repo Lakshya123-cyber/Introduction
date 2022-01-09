@@ -42,6 +42,6 @@ if __name__ == '__main__':
 console.log("I am an amateur coder but I can handle certain projects")
 ```
 
-<h1>I do have my portfolio website open on the internet and anyone can click on the link below or scan the QR Code!</h1>
+<p>I do have my portfolio website open on the internet and anyone can click on the link below or scan the QR Code!</p>
 <a href="https://raikwal-homepage.vercel.app">This is my Portfolio</a>
 <img src="myQr.jpg" />
