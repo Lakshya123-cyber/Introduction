@@ -42,8 +42,29 @@ if __name__ == '__main__':
 console.log("I am an amateur coder but I can handle certain projects")
 ```
 
-<p>I do have my portfolio website open on the internet and anyone can click on the link below or scan the QR Code!</p>
-<a href="https://raikwal-homepage.vercel.app" target="_blank">Link to my Portfolio</a>
-<br><br>
-<img src="https://user-images.githubusercontent.com/72344300/148674818-da5e6b3c-69fb-4ba1-97fe-fe06a134bf48.jpg" />
+
+---
+
+## My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya123-cyber&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lakshya123-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya123-cyber&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[twitter]: https://twitter.com/lakshya_raikwal
+[website]: https://www.raikwal-homepage.vercel.app/
+[instagram]: https://www.instagram.com/titan1728/
+
+---
+
+## Connect With Me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+---
 
