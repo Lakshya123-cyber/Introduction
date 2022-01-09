@@ -37,3 +37,11 @@ class LakshyaRaik():
 if __name__ == '__main__':
     me = LakshyaRaik()
 ```
+
+```js
+console.log("I am an amateur coder but I can handle certain projects")
+```
+
+<h1>I do have my portfolio website open on the internet and anyone can click on the link below or scan the QR Code!</h1>
+<a href="https://raikwal-homepage.vercel.app">This is my Portfolio</a>
+<img src="myQr.jpg" />
