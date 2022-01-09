@@ -44,4 +44,5 @@ console.log("I am an amateur coder but I can handle certain projects")
 
 <p>I do have my portfolio website open on the internet and anyone can click on the link below or scan the QR Code!</p>
 <a href="https://raikwal-homepage.vercel.app">This is my Portfolio</a>
-<img src="myQr.jpg" />
+<img src="![myQr](https://user-images.githubusercontent.com/72344300/148674818-da5e6b3c-69fb-4ba1-97fe-fe06a134bf48.jpg)" />
+
