@@ -47,9 +47,9 @@ console.log("I am an amateur coder but I can handle certain projects")
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya123-cyber&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya123-cyber&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lakshya123-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya123-cyber&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Lakshya123-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya123-cyber&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/lakshya_raikwal
