@@ -19,6 +19,9 @@ I can pretty much say that I have an extensive knowledge of the programming lang
 </div>
 </p>
 
+---
+
+
 ```python
 class LakshyaRaik():
     
@@ -35,6 +38,9 @@ class LakshyaRaik():
 if __name__ == '__main__':
     me = LakshyaRaik()
 ```
+
+---
+
 
 ```js
 console.log("I am an amateur coder but I can handle certain projects")
