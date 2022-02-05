@@ -53,10 +53,3 @@ console.log("I am an amateur coder but I can handle certain projects")
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya123-cyber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lakshya123-cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya123-cyber&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[twitter]: https://twitter.com/lakshya_raikwal
-[website]: https://raikwal-homepage.vercel.app/
-[instagram]: https://www.instagram.com/titan1728/
-
