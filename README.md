@@ -39,13 +39,6 @@ if __name__ == '__main__':
     me = LakshyaRaik()
 ```
 
----
-
-
-```js
-console.log("I am an amateur coder but I can handle certain projects")
-```
-
 
 ---
 
