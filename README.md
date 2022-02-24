@@ -16,7 +16,7 @@ I can pretty much say that I have an extensive knowledge of the programming lang
   <img src="https://img.shields.io/badge/-NEXT.JS-d1a01f?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=000000">
   <img src="https://img.shields.io/badge/-NODE.JS-d1a01f?style=for-the-badge&logo=node.js&logoColor=303030&labelColor=3c873a">
   <img src="https://img.shields.io/badge/-Python-c58545?style=for-the-badge&logo=python&logoColor=ffe873&labelColor=646464">
-  <img src="https://img.shields.io/badge/-Flutter-c58545?style=for-the-badge&logo=flutter&logoColor=00faff&labelColor=646464">
+  <img src="https://img.shields.io/badge/-Flutter-0a5df7?style=for-the-badge&logo=flutter&logoColor=00faff&labelColor=646464">
 </div>
 </p>
 
