@@ -7,17 +7,17 @@ I can pretty much say that I have an extensive knowledge of the programming lang
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-d1a01f?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=282828">
   <img src="https://img.shields.io/badge/-JS-d1a01f?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-REACT.JS-d1a01f?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=1f232a">
   <img src="https://img.shields.io/badge/-REACT NATIVE-d1a01f?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=1f232a">
   <img src="https://img.shields.io/badge/-NEXT.JS-d1a01f?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=000000">
   <img src="https://img.shields.io/badge/-NODE.JS-d1a01f?style=for-the-badge&logo=node.js&logoColor=303030&labelColor=3c873a">
-  <img src="https://img.shields.io/badge/-Python-c58545?style=for-the-badge&logo=python&logoColor=ffe873&labelColor=646464">
-  <img src="https://img.shields.io/badge/-Flutter-0a5df7?style=for-the-badge&logo=flutter&logoColor=00faff&labelColor=646464">
-  <img src="https://img.shields.io/badge/-TYPESCRIPT-0a5df7?style=for-the-badge&logo=typescript&logoColor=61DBFB&labelColor=1f232a">
-  <img src="https://img.shields.io/badge/-SOLIDITY-0a5df7?style=for-the-badge&logo=solidity&logoColor=a6a5a2&labelColor=e3e2de">
+  <img src="https://img.shields.io/badge/-Python-d1a01f?style=for-the-badge&logo=python&logoColor=ffe873&labelColor=646464">
+  <img src="https://img.shields.io/badge/-Flutter-d1a01f?style=for-the-badge&logo=flutter&logoColor=00faff&labelColor=646464">
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-d1a01f?style=for-the-badge&logo=typescript&logoColor=61DBFB&labelColor=1f232a">
+  <img src="https://img.shields.io/badge/-SOLIDITY-d1a01f?style=for-the-badge&logo=solidity&logoColor=a6a5a2&labelColor=e3e2de">
 </div>
 </p>
 
