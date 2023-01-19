@@ -52,4 +52,4 @@ if __name__ == '__main__':
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya123-cyber&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Lakshya123-cyber&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
