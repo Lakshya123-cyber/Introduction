@@ -24,7 +24,7 @@ I have an extensive knowledge of the programming languages that are listed below
   <br />
   <img src="https://img.shields.io/badge/-TYPESCRIPT-d1a01f?style=for-the-badge&logo=typescript&logoColor=61DBFB&labelColor=1f232a">
   <img src="https://img.shields.io/badge/-SOLIDITY-d1a01f?style=for-the-badge&logo=solidity&logoColor=666665&labelColor=e0e0de">
-  <img src="https://img.shields.io/badge/-C#-d1a01f?style=for-the-badge&logo=csharp&logoColor=6d3dad&labelColor=e0e0de">
+  <img src="https://img.shields.io/badge/-CSHARP-d1a01f?style=for-the-badge&logo=csharp&logoColor=6d3dad&labelColor=e0e0de">
 </div>
 </p>
 
