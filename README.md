@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Lakshya
 
-I am a passionate developer and a high-school student who has a keen interest in programming and developing new things, including AI. When I am not glued to the screen, I spend my time either researching a new project idea or gossiping with my mom. I am also an ambitious person with a positive attitude and full of determination to achieve everything I set my mind to.<br />
+I am a passionate developer and a [University student](https://www.samk.fi/en/) who has a keen interest in programming and developing new things, including AI. When I am not glued to the screen, I spend my time either researching a new project idea or gossiping with my mom. I am also an ambitious person with a positive attitude and full of determination to achieve everything I set my mind to.<br />
 
 I am an amateur in <b> Python / Web Development / App development / Web3 / Machine Learning and Artificial Intelligence </b><br />
 I also have my personal [portfolio website](https://raikwal-homepage.vercel.app) published on the internet. <br />
