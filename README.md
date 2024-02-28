@@ -39,9 +39,9 @@ class LakshyaRaik():
   def __init__(self):
     self.name = "Lakshya Raikwal";
     self.username = "Lakshya123-cyber";
-    self.location = "Singapore";
+    self.location = "Finland";
     self.instagram = "@titan1728";
-    self.web = "https://raikwal-homepage.vercel.app";
+    self.web = "";
   
   def __str__(self):
     return self.name
@@ -52,7 +52,3 @@ if __name__ == '__main__':
 
 
 ---
-
-## My GitHub Stats 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Lakshya123-cyber&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
