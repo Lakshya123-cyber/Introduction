@@ -3,7 +3,7 @@
 I am a passionate developer and a [University student](https://www.samk.fi/en/) who has a keen interest in programming and developing new things, including AI. When I am not glued to the screen, I spend my time either researching a new project idea or playing video games. I am also an ambitious person with a positive attitude and full of determination to achieve everything I set my mind to.<br />
 
 I am an amateur in <b> Python / Web Development / App development / Web3 / Machine Learning and Artificial Intelligence </b><br />
-I also have my personal [portfolio website](https://raikwal-homepage.vercel.app) published on the internet. <br />
+I also have my personal [portfolio website](https://raikwal-portfolio.vercel.app/) published on the internet. <br />
 I have an extensive knowledge of the programming languages that are listed below:
 
 <br>
@@ -41,7 +41,7 @@ class LakshyaRaik():
     self.username = "Lakshya123-cyber";
     self.location = "Finland";
     self.instagram = "@titan1728";
-    self.web = "";
+    self.web = "https://raikwal-portfolio.vercel.app/";
   
   def __str__(self):
     return self.name
